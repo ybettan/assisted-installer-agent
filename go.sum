@@ -555,6 +555,8 @@ github.com/google/uuid v1.0.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+
 github.com/google/uuid v1.1.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
 github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/google/uuid v1.1.2 h1:EVhdT+1Kseyi1/pUmXKaFxYsDNy9RQYkMWRH68J/W7Y=
+github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/googleapis/gax-go v2.0.2+incompatible/go.mod h1:SFVmujtThgffbyetf+mdk2eWhX2bMyUtNHzFKcPA9HY=
 github.com/googleapis/gax-go/v2 v2.0.4/go.mod h1:0Wqv26UfaUD9n4G6kQubkQ+KchISgw+vpHVxEJEs9eg=
 github.com/googleapis/gax-go/v2 v2.0.5/go.mod h1:DWXyrwAJ9X0FpwwEdw+IPEYBICEFu5mhpdKc/us6bOk=
@@ -872,8 +874,6 @@ github.com/openshift-online/ocm-sdk-go v0.1.130 h1:2hnPXJSgkt0LSSNzO2lvJuFBq3rqZ
 github.com/openshift-online/ocm-sdk-go v0.1.130/go.mod h1:3i3a/LEYtC7DMor3N94PTPn1+0qq+Fk+iLjt1Z0WVCs=
 github.com/openshift/api v0.0.0-20200205133042-34f0ec8dab87/go.mod h1:fT6U/JfG8uZzemTRwZA2kBDJP5nWz7v05UHnty/D+pk=
 github.com/openshift/api v0.0.0-20200326152221-912866ddb162/go.mod h1:RKMJ5CBnljLfnej+BJ/xnOWc3kZDvJUaIAEq2oKSPtE=
-github.com/openshift/assisted-service v1.0.10-0.20201117161456-e97b039ef0c0 h1:7dM/PYUVMa23nXjJ5Fv8aVKZJSxY6tH6hyF5AB9HwQU=
-github.com/openshift/assisted-service v1.0.10-0.20201117161456-e97b039ef0c0/go.mod h1:1fJjNU9dl8rXqfIqxRKcrB8D+f43QhzMDVnyf9I5/uI=
 github.com/openshift/assisted-service v1.0.10-0.20201123173047-fc89b94631c2 h1:LbPcvkbYuv8ak95LId05/owoIwCAuj18TbJ6kNu7zG4=
 github.com/openshift/assisted-service v1.0.10-0.20201123173047-fc89b94631c2/go.mod h1:1fJjNU9dl8rXqfIqxRKcrB8D+f43QhzMDVnyf9I5/uI=
 github.com/openshift/baremetal-operator v0.0.0-20200715132148-0f91f62a41fe/go.mod h1:DOgBIuBcXuTD8uub0jL7h6gBdIBt3CFrwz6K2FtfMBA=
