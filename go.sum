@@ -947,8 +947,9 @@ github.com/onsi/gomega v1.7.1/go.mod h1:XdKZgCCFLUoM/7CFJVPcG8C1xQ1AJ0vpAezJrB7J
 github.com/onsi/gomega v1.8.1/go.mod h1:Ho0h+IUsWyvy1OpqCwxlQ/21gkhVunqlU8fDGcoTdcA=
 github.com/onsi/gomega v1.9.0/go.mod h1:Ho0h+IUsWyvy1OpqCwxlQ/21gkhVunqlU8fDGcoTdcA=
 github.com/onsi/gomega v1.10.1/go.mod h1:iN09h71vgCQne3DLsj+A5owkum+a2tYe+TOCB1ybHNo=
-github.com/onsi/gomega v1.13.0 h1:7lLHu94wT9Ij0o6EWWclhu0aOh32VxhkwEJvzuWPeak=
 github.com/onsi/gomega v1.13.0/go.mod h1:lRk9szgn8TxENtWd0Tp4c3wjlRfMTMH27I+3Je41yGY=
+github.com/onsi/gomega v1.17.0 h1:9Luw4uT5HTjHTN8+aNcSThgH1vdXnmdJ8xIfZ4wyTRE=
+github.com/onsi/gomega v1.17.0/go.mod h1:HnhC7FXeEQY45zxNK3PPoIUhzk/80Xly9PcubAlGdZY=
 github.com/op/go-logging v0.0.0-20160315200505-970db520ece7/go.mod h1:HzydrMdWErDVzsI23lYNej1Htcns9BCg93Dk0bBINWk=
 github.com/opencontainers/go-digest v0.0.0-20170106003457-a6d0ee40d420/go.mod h1:cMLVZDEM3+U2I4VmLI6N8jQYUd2OVphdqWwCJHrFt2s=
 github.com/opencontainers/go-digest v0.0.0-20180430190053-c9281466c8b2/go.mod h1:cMLVZDEM3+U2I4VmLI6N8jQYUd2OVphdqWwCJHrFt2s=
@@ -980,14 +981,6 @@ github.com/openshift/api v0.0.0-20200901182017-7ac89ba6b971/go.mod h1:M3xexPhgM8
 github.com/openshift/api v0.0.0-20201019163320-c6a5ec25f267/go.mod h1:RDvBcRQMGLa3aNuDuejVBbTEQj/2i14NXdpOLqbNBvM=
 github.com/openshift/api v0.0.0-20210216211028-bb81baaf35cd/go.mod h1:aqU5Cq+kqKKPbDMqxo9FojgDeSpNJI7iuskjXjtojDg=
 github.com/openshift/api v3.9.1-0.20191111211345-a27ff30ebf09+incompatible/go.mod h1:dh9o4Fs58gpFXGSYfnVxGR9PnV53I8TW84pQaJDdGiY=
-github.com/openshift/assisted-service v1.0.10-0.20210817100849-4962ca422755 h1:KZiQMhICziFgOWXRwDkLt/qrxhQ1ioSUOB4IiMfluQg=
-github.com/openshift/assisted-service v1.0.10-0.20210817100849-4962ca422755/go.mod h1:gZbvXtrg4RY2IODd/ItQbz/f44FyujyduP/a8uJ0mUU=
-github.com/openshift/assisted-service v1.0.10-0.20210825150850-56247fd7d2d9 h1:pjHdJrC2sTcpQv7JsfH/VP0KhuebhpPcekbbSQK9GxA=
-github.com/openshift/assisted-service v1.0.10-0.20210825150850-56247fd7d2d9/go.mod h1:gZbvXtrg4RY2IODd/ItQbz/f44FyujyduP/a8uJ0mUU=
-github.com/openshift/assisted-service v1.0.10-0.20210905195728-76425eb6a476 h1:goj8GFtQ1wDxZaDHhNts6rw/loA5fPPh7FFTKxh2t8M=
-github.com/openshift/assisted-service v1.0.10-0.20210905195728-76425eb6a476/go.mod h1:gZbvXtrg4RY2IODd/ItQbz/f44FyujyduP/a8uJ0mUU=
-github.com/openshift/assisted-service v1.0.10-0.20210913205447-a96c596238d8 h1:Ir+PwKvBWmFGB6XJCeD+1uK4syx0o8YBD18GB2QQEyo=
-github.com/openshift/assisted-service v1.0.10-0.20210913205447-a96c596238d8/go.mod h1:SsuNh9LQjVGO4N8PG5fp8G0LVSkVcWcF158yOCJFAj8=
 github.com/openshift/assisted-service v1.0.10-0.20210929010224-72700cdbd088 h1:76NH3Tcd9woHBe2LJ3bRp+I4kaD/WPL40MYz7nLHZwQ=
 github.com/openshift/assisted-service v1.0.10-0.20210929010224-72700cdbd088/go.mod h1:SsuNh9LQjVGO4N8PG5fp8G0LVSkVcWcF158yOCJFAj8=
 github.com/openshift/baremetal-operator v0.0.0-20200715132148-0f91f62a41fe/go.mod h1:DOgBIuBcXuTD8uub0jL7h6gBdIBt3CFrwz6K2FtfMBA=
