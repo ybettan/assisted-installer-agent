@@ -980,14 +980,6 @@ github.com/openshift/api v0.0.0-20200901182017-7ac89ba6b971/go.mod h1:M3xexPhgM8
 github.com/openshift/api v0.0.0-20201019163320-c6a5ec25f267/go.mod h1:RDvBcRQMGLa3aNuDuejVBbTEQj/2i14NXdpOLqbNBvM=
 github.com/openshift/api v0.0.0-20210216211028-bb81baaf35cd/go.mod h1:aqU5Cq+kqKKPbDMqxo9FojgDeSpNJI7iuskjXjtojDg=
 github.com/openshift/api v3.9.1-0.20191111211345-a27ff30ebf09+incompatible/go.mod h1:dh9o4Fs58gpFXGSYfnVxGR9PnV53I8TW84pQaJDdGiY=
-github.com/openshift/assisted-service v1.0.10-0.20210817100849-4962ca422755 h1:KZiQMhICziFgOWXRwDkLt/qrxhQ1ioSUOB4IiMfluQg=
-github.com/openshift/assisted-service v1.0.10-0.20210817100849-4962ca422755/go.mod h1:gZbvXtrg4RY2IODd/ItQbz/f44FyujyduP/a8uJ0mUU=
-github.com/openshift/assisted-service v1.0.10-0.20210825150850-56247fd7d2d9 h1:pjHdJrC2sTcpQv7JsfH/VP0KhuebhpPcekbbSQK9GxA=
-github.com/openshift/assisted-service v1.0.10-0.20210825150850-56247fd7d2d9/go.mod h1:gZbvXtrg4RY2IODd/ItQbz/f44FyujyduP/a8uJ0mUU=
-github.com/openshift/assisted-service v1.0.10-0.20210905195728-76425eb6a476 h1:goj8GFtQ1wDxZaDHhNts6rw/loA5fPPh7FFTKxh2t8M=
-github.com/openshift/assisted-service v1.0.10-0.20210905195728-76425eb6a476/go.mod h1:gZbvXtrg4RY2IODd/ItQbz/f44FyujyduP/a8uJ0mUU=
-github.com/openshift/assisted-service v1.0.10-0.20210913205447-a96c596238d8 h1:Ir+PwKvBWmFGB6XJCeD+1uK4syx0o8YBD18GB2QQEyo=
-github.com/openshift/assisted-service v1.0.10-0.20210913205447-a96c596238d8/go.mod h1:SsuNh9LQjVGO4N8PG5fp8G0LVSkVcWcF158yOCJFAj8=
 github.com/openshift/assisted-service v1.0.10-0.20210929010224-72700cdbd088 h1:76NH3Tcd9woHBe2LJ3bRp+I4kaD/WPL40MYz7nLHZwQ=
 github.com/openshift/assisted-service v1.0.10-0.20210929010224-72700cdbd088/go.mod h1:SsuNh9LQjVGO4N8PG5fp8G0LVSkVcWcF158yOCJFAj8=
 github.com/openshift/baremetal-operator v0.0.0-20200715132148-0f91f62a41fe/go.mod h1:DOgBIuBcXuTD8uub0jL7h6gBdIBt3CFrwz6K2FtfMBA=
@@ -1229,8 +1221,9 @@ github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81P
 github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
 github.com/stretchr/testify v1.6.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
-github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
+github.com/stretchr/testify v1.7.1 h1:5TQK59W5E3v0r2duFAb7P95B6hEeOyEnHRa8MjYSMTY=
+github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stripe/safesql v0.2.0/go.mod h1:q7b2n0JmzM1mVGfcYpanfVb2j23cXZeWFxcILPn3JV4=
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
 github.com/syndtr/gocapability v0.0.0-20170704070218-db04d3cc01c8/go.mod h1:hkRG7XYTFWNJGYcbNJQlaLq0fg1yr4J4t/NcTQtrfww=
