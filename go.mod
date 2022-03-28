@@ -10,7 +10,7 @@ require (
 	github.com/jaypipes/ghw v0.7.0
 	github.com/jaypipes/pcidb v0.6.0
 	github.com/onsi/ginkgo v1.16.4
-	github.com/onsi/gomega v1.13.0
+	github.com/onsi/gomega v1.19.0
 	github.com/openshift/assisted-service v1.0.10-0.20210929010224-72700cdbd088
 	github.com/openshift/baremetal-runtimecfg v0.0.0-20210210163937-34f98e0f48fd
 	github.com/patrickmn/go-cache v2.1.0+incompatible
@@ -21,7 +21,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/thoas/go-funk v0.8.0
 	github.com/vishvananda/netlink v1.1.0
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
+	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
 	gopkg.in/yaml.v2 v2.4.0
 )
 
