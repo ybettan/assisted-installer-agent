@@ -7,7 +7,7 @@ require (
 	github.com/alessio/shellescape v1.4.1
 	github.com/coreos/ignition/v2 v2.14.0
 	github.com/go-openapi/runtime v0.24.1
-	github.com/go-openapi/strfmt v0.21.2
+	github.com/go-openapi/strfmt v0.21.5
 	github.com/go-openapi/swag v0.21.1
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/go-multierror v1.1.1
@@ -70,7 +70,6 @@ require (
 	github.com/go-openapi/loads v0.21.1 // indirect
 	github.com/go-openapi/spec v0.20.6 // indirect
 	github.com/go-openapi/validate v0.22.0 // indirect
-	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/golang-jwt/jwt/v4 v4.4.1 // indirect
@@ -128,8 +127,8 @@ require (
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
 	github.com/xeipuuv/gojsonschema v1.2.0 // indirect
-	go.mongodb.org/mongo-driver v1.8.3 // indirect
-	golang.org/x/crypto v0.0.0-20220214200702-86341886e292 // indirect
+	go.mongodb.org/mongo-driver v1.10.0 // indirect
+	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d // indirect
 	golang.org/x/net v0.0.0-20220524220425-1d687d428aca // indirect
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8 // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
