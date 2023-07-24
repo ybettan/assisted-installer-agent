@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/PuerkitoBio/rehttp v1.1.0
-	github.com/alessio/shellescape v1.4.1
+	github.com/alessio/shellescape v1.4.2
 	github.com/coreos/ignition/v2 v2.14.0
 	github.com/go-openapi/runtime v0.24.1
 	github.com/go-openapi/strfmt v0.21.2

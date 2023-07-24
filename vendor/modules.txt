@@ -18,7 +18,7 @@ github.com/StackExchange/wmi
 # github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d
 ## explicit
 github.com/alecthomas/units
-# github.com/alessio/shellescape v1.4.1
+# github.com/alessio/shellescape v1.4.2
 ## explicit; go 1.14
 github.com/alessio/shellescape
 # github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
