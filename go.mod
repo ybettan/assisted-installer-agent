@@ -14,7 +14,7 @@ require (
 	github.com/hashicorp/go-version v1.6.0
 	github.com/jaypipes/ghw v0.8.0
 	github.com/jaypipes/pcidb v1.0.0
-	github.com/jinzhu/copier v0.3.5
+	github.com/jinzhu/copier v0.4.0
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.19.0
